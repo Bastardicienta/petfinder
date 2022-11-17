@@ -15,7 +15,6 @@ function App() {
             <Container>
               <LinkContainer to="/">
                 <Navbar.Brand>Petfinder (React proyect)</Navbar.Brand>
-                
               </LinkContainer>
             </Container>
           </Navbar>
